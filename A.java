@@ -10,6 +10,8 @@ float p = 7.0;
   
 String = "Hii Purushottam From Infosys Is Here How may I help You";
 
+boolean b = "true";
+
 public static void main(String ...addv){
 
 System.out.println("Hello World");
