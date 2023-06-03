@@ -11,4 +11,10 @@ System.out.println("Hello World");
 
 }
 
+<<<<<<< HEAD
+=======
+public void m1(){
+
+}
+>>>>>>> 040d612 (modifeid A.java)
 }
