@@ -7,6 +7,8 @@ int i = 10;
 int o = 78;
 
 float p = 7.0;
+  
+String = "Hii Purushottam From Infosys Is Here";
 
 public static void main(String ...addv){
 
