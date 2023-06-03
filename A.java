@@ -6,4 +6,8 @@ System.out.println("Hello World");
 
 
 }
+
+public void m1(){
+
+}
 }
